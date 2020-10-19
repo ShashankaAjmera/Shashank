@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jet2</string>
+    <string name="content_article_image">article image</string>
+    <string name="articles">Articles</string>
+    <string name="likes">Likes</string>
+    <string name="comments">Comments</string>
+    <string name="post_error">An error occurred while loading the posts</string>
+    <string name="no_more_data">No More data to load</string>
+</resources>
